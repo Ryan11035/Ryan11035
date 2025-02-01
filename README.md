@@ -1,4 +1,4 @@
-# 你好，我是 Ryan11035😀
+## 你好，我是 Ryan11035😀
 歡迎來到我的 Github ！我是一名熱愛寫HTML的臺灣人，我是一名 Minecraft 伺服器的服主，雖然~~都沒在管理~~，在這裡 你可以找到我所編寫的一些網頁或其他東東（？
 ## 關於我
 - 🔭 我目前正在開發和管理我的Minecraft伺服器項目
@@ -8,6 +8,8 @@
 - ㊙️ 秘密：~~我有一小部分的網頁代碼是 Gemini 給的~~
 # Github 統計資料
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ryan11035&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+## 在 Github 使用最多的語言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **Ryan11035/Ryan11035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
