@@ -4,8 +4,8 @@
 🔭 我目前正在開發和管理我的Minecraft伺服器項目
 🌱 我正在學習更多關於伺服器優化和網頁開發的知識
 💬 如果你對Minecraft伺服器相關的內容有疑問，可以隨時問我😄
-📫 如何找到我: [DC : Ryan11035]
-㊙️ 秘密：~~我有一小部分的網頁代碼是 Gemini 給的~~
+- 📫 如何找到我: [DC : Ryan11035]
+- ㊙️ 秘密：~~我有一小部分的網頁代碼是 Gemini 給的~~
 
 <!--
 **Ryan11035/Ryan11035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
