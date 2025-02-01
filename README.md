@@ -13,7 +13,9 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan11035&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 ## 我做的項目
+不要問為什麼網址是 http:// ~~因為我沒錢買付費主機~~
 - [簡易計算機](http://ryan11035.free.nf) ：無聊做的一個小計算機，功能不是很齊全 ~~但是可以用~~
+- [個人網頁](http://ryan11035.free.nf)
 
 ## 找到我
 - [Discord](https://discord.com/)
