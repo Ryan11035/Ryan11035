@@ -15,6 +15,8 @@
 ## 我做的項目
 - [簡易計算機](http://ryan11035.free.nf) ：無聊做的一個小計算機，功能不是很齊全 ~~但是可以用~~
 
+## 找到我
+- [Discord](https://discord.com/)
 <!--
 **Ryan11035/Ryan11035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
