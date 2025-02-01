@@ -9,7 +9,7 @@
 # Github 統計資料
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ryan11035&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 ## 在 Github 使用最多的語言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan11035&layout=compact)
 
 <!--
 **Ryan11035/Ryan11035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
