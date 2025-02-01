@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan11035&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 ## 我做的項目
-
+- [簡易計算機](https://github.com/Ryan11035/SimpleCalculator)
 
 <!--
 **Ryan11035/Ryan11035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
