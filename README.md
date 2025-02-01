@@ -7,7 +7,7 @@
 - 📫 如何找到我: [DC : Ryan11035]
 - ㊙️ 秘密：~~我有一小部分的網頁代碼是 Gemini 給的~~
 # Github 統計資料
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ryan11035&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 <!--
 **Ryan11035/Ryan11035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
